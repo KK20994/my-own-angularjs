@@ -1,0 +1,24 @@
+{
+  "name": "my-own-angularjs",
+  "version": "0.0.1",
+  "description": "code for build your own angularjs",
+  "main": "-",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-testem": "^0.5.22",
+    "sinon": "^1.17.3"
+  },
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "lodash": "^4.11.1"
+  }
+}
